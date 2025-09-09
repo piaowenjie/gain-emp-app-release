@@ -1,6 +1,6 @@
 
 <div align="left">
-  <a href="https://github.com/piaowenjie/gain-emp-app-release/releases/latest">
+  <a href="http://gaings.iptime.org:19999/app/download">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/piaowenjie/gain-emp-app-release/releases/latest&query=$.name&label=%EA%B0%80%EC%9D%B8%EC%83%81%EC%82%ACAPP&color=success&style=for-the-badge&logo=github" 
          width="700" 
          height="140" 
